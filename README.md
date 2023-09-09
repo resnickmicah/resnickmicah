@@ -5,4 +5,4 @@
 - 💬 Ask me about automated testing in general, or automated web UI testing with Selenium.
 - 📫 How to reach me: Spinkyt#5784 on Discord, or my github username at gee male punto com
 - 😄 Pronouns: He/Him
-- ⚡ Favorite productivity tool: https://www.focusmate.com/
+- ⚡ Favorite productivity tools: https://www.focusmate.com/ , https://www.usemotion.com , https://www.beeminder.com/
